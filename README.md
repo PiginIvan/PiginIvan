@@ -6,7 +6,7 @@
 <h3 align="left">About me:</h3>
 
 - I am a student at the Higher School of Economics in Nizhny Novgorod
-- I have completed 2nd year of studies in "Software Engineering"
+- I am now at 3rd year of studies in "Software Engineering"
 - I'm currently learning Python to become a Python developer
 
 <h3 align="left">Connect with me:</h3>
