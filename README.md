@@ -6,8 +6,8 @@
 <h3 align="left">About me:</h3>
 
 - I am a student at the Higher School of Economics in Nizhny Novgorod
-- I am now at 3rd year of studies in "Software Engineering"
-- I'm currently learning Python to become a Python developer
+- I am now at 4th year of studies in "Software Engineering"
+- I'm currently learning Python to become a Python developer or Data Scientist
 
 <h3 align="left">Connect with me:</h3>
 <div id="badges" align="left">
